@@ -1,7 +1,6 @@
 # CNCF PSI Linux Environment Simulator
 
 ![CNCF](https://raw.githubusercontent.com/spurin/cncf-psi-k8s-linux-simulator/main/cncf.png)
-# Dive Into Ansible Lab - GCP Cloudshell
 
 A customised Google Cloudshell enviroment with a preconfigured environment to mimic the CNCF PSI Linux Exam Environment 🚀
 
