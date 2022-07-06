@@ -2,7 +2,7 @@
 
 ![CNCF](https://raw.githubusercontent.com/spurin/cncf-psi-k8s-linux-simulator/main/cncf.png)
 
-This tutorial provides you with a Linux Desktop environment that will be similar to that used in the new PSI exams, for the CNCF/LinuxFoundation Kubernetes exams.  By following this tutorial you'll have a simple Kubernetes setup (single node, command can be modified for multiple), and, a Linux desktop with kubectl configured, for Minikube.  The browser (Firefox) is also configured for the kubernetes.io homepage.
+This tutorial provides you with a Linux Desktop environment that will be similar to that used in the new CKA/CKAD/CKS exams running under the new PSI exam framework.  By following this tutorial you'll have a simple Kubernetes setup (single node- command can be modified for multiple nodes) and a Linux desktop with kubectl configured for Minikube.  The browser (Firefox) is also configured for the kubernetes.io homepage.
 
 Firstly, we'll setup our kubernetes environment using minikube -
 
