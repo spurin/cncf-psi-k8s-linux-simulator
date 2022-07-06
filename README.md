@@ -12,7 +12,7 @@ If for any reason, the tutorial is interrupted with an error message or does not
 
 From the terminal run -
 
-```teachme tutorial.md``
+```teachme tutorial.md```
 
 When ready, click the button to launch -
 
