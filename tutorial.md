@@ -28,10 +28,8 @@ docker run -d \
   --shm-size="1gb" \
   --restart unless-stopped \
   --network minikube \
-  spurin/webtop-k8s:latest && echo COMPLETE!
+  spurin/webtop-k8s:latest
 ```
-
-When this completes, you'll see the word 'COMPLETE!' 
 
 To access the Desktop, click the Web Preview Icon, if you cant find it, click -> <walkthrough-web-preview-icon>here</walkthrough-web-preview-icon> for a walkthrough on where to find it.  
 
