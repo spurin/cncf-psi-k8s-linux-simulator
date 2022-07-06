@@ -8,6 +8,6 @@ Click the link, authenticate with your Google credentials, you don't need to 'Tr
 
 If for any reason, the tutorial is interrupted with an error message or does not appear (which can happen Google are tweaking the platform), from the terminal run -
 
-```teachme tutorial.md``
+```teachme tutorial.md```
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_image=gcr.io/cloudshell-images/cloudshell&cloudshell_git_repo=https://github.com/spurin/cncf-psi-k8s-linux-simulator.git&cloudshell_tutorial=tutorial.md&shellonly=true)
