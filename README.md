@@ -2,7 +2,7 @@
 
 ![CNCF](https://raw.githubusercontent.com/spurin/cncf-psi-k8s-linux-simulator/main/cncf.png)
 
-A customised Google Cloudshell enviroment, preconfigured to mimic the Desktop environment used in the PSI CNCF Kubernetes Exam Environments 🚀
+A customised Google Cloudshell enviroment, preconfigured to mimic the Desktop environment used to provide familiarity for the new PSI CNCF Kubernetes Exam Environments 🚀
 
 Click the link, authenticate with your Google credentials, you don't need to 'Trust' the image (i.e. share your credentials) for all of the functionality to work.  Once launched, follow the short tutorial on the right hand side!
 
