@@ -2,13 +2,13 @@
 
 ![CNCF](https://raw.githubusercontent.com/spurin/cncf-psi-k8s-linux-simulator/main/cncf.png)
 
-A customised Google Cloudshell enviroment, preconfigured to mimic the Desktop environment used to provide familiarity for the new PSI CNCF Kubernetes Exam Environments 🚀
+A customised Google Cloud Shell enviroment, preconfigured to provide familiarisation of the Desktop environment used in the new PSI CNCF Kubernetes Exam Environments 🚀
 
-Click the link, authenticate with your Google credentials, you don't need to 'Trust' the image (i.e. share your credentials) for all of the functionality to work.  Once launched, follow the short tutorial on the right hand side!
+Click the link, authenticate with your Google credentials, you don't need to 'Trust' the image (i.e. share your credentials) for all of the functionality to work.  Once launched, follow the short tutorial on the right hand side.
 
-After following the tutorial steps, you'll have Minikube configured and this will be accessible from an XFCE Linux Desktop environment, which, will be similar to that used in the PSI Exam suite.  You should familiarise yourself with using Kubernetes within this environment, documentaion via firefox and general interactions such as copying and pasting.
+After following the tutorial steps, you'll have Minikube configured and this will be accessible from an XFCE Linux Desktop environment, which, will be similar to that used in the PSI Exam suite.  You should familiarise yourself with using Kubernetes within this environment, documentation via Firefox and general interactions such as copying and pasting (ctrl shift c, ctrl shift v).
 
-If for any reason, the tutorial is interrupted with an error message or does not appear (seems to be an intermittent Google Cloud Shell issue at the moment), i.e. 
+If for any reason, the tutorial is interupted with an error message or does not appear (there is an intermittent Google Cloud Shell issue at the moment), i.e. 
 
 ![Warning](https://raw.githubusercontent.com/spurin/cncf-psi-k8s-linux-simulator/main/warning.png)
 
