@@ -1,4 +1,4 @@
-# CNCF PSI Linux Environment Simulator
+# CNCF PSI Exam - Linux Environment Simulator
 
 ![CNCF](https://raw.githubusercontent.com/spurin/cncf-psi-k8s-linux-simulator/main/cncf.png)
 
